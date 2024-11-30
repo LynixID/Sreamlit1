@@ -1,0 +1,6 @@
+symboling,CarName,fueltype,aspiration,doornumber,carbody,drivewheel,enginelocation,wheelbase,carlength,carwidth,carheight,curbweight,enginetype,cylindernumber,enginesize,fuelsystem,boreratio,stroke,compressionratio,horsepower,peakrpm,citympg,highwaympg,price
+3,alfa-romero,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9.0,111,5000,21,27,13495
+1,audi,diesel,std,four,sedan,fwd,front,94.5,176.6,66.2,54.3,2823,ohc,five,132,mpfi,3.19,3.4,10.0,154,5500,22,25,16500
+2,bmw,gas,turbo,four,sedan,rwd,front,99.8,193.7,71.4,55.9,3410,ohc,six,152,mpfi,3.62,3.5,9.5,200,5800,15,20,20000
+3,chevrolet,gas,std,two,hatchback,fwd,front,105.8,197.0,71.4,58.7,3205,ohc,eight,209,2bbl,3.47,3.4,9.5,121,4250,18,22,13950
+0,dodge,diesel,turbo,four,sedan,rwd,rear,108.0,200.6,70.9,58.9,3230,rotor,three,146,2bbl,3.76,2.45,9.3,145,5000,20,23,17450
